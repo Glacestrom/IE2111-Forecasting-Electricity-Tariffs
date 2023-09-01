@@ -1,4 +1,5 @@
 # IE2111-Forecasting-Electricity-Tariffs
+Project Dates: February 2020 - April 2020
 ## Disclaimer
 While this project was a collaborative group effort, I want to emphasize that all the Python codes (including the VAR model) are entirely my own work and self-contained. Therefore, no additional codes are required to reproduce the results presented here.
 
